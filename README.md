@@ -86,7 +86,12 @@ This project is open-source! If you want to contribute:
 
 ## License
 
-Hexfinity is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0) License**. This means you are free to use, modify, remix, and share the designs **as long as you provide proper attribution** to the original creators.
+Hexfinity is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0) License**. This means you are free to use, modify, remix, and share the designs **as long as you provide proper attribution** back to:
+
+1. I prefer you link back to my [MakerWorld.com/en/@Kanjirevilo](https://makerworld.com/en/@Kanjirevilo) profile
+2. But, you can also link to this github repo: [Hexfinity](https://github.com/shanebdavis/hexfinity)
+
+And I want to hear about your creations! Add comments on one of my MakeWorld Hexfinity models or here under [issues](./issues)
 
 # Get Started
 
