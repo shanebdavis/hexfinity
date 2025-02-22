@@ -55,9 +55,14 @@ Hexfinity isn't just for rolling balls—it's also a **storage system** optimize
 
 ### How to Print
 
+- BambuLab A1Mini/A1/X1/P1 Print-ready profiles are available on [MakerWorld.com/en/@Kanjirevilo](https://makerworld.com/en/@Kanjirevilo)
+- Or pick the models ala carte from this repo: [models](./models)
+
+More details on printing:
+
 - **Material Estimate**: A full brick (~21mm tall) weighs ~9g.
-- **Recommended Filament**: PLA or PETG for strength and ease of printing.
-- **Printer Compatibility**: Designed for FDM printers with a 0.4mm nozzle or larger.
+- **Recommended Filament**: PLA works great. Wood PLA is a little snug at first, but it gets looser with use. PETG works fabulously.
+- **Printer Compatibility**: Designed for FDM printers with a 0.4mm nozzle
 
 ### Assembly
 
