@@ -12,6 +12,19 @@ Roll Hexfinity uses the Hexfinity system, and it leverages the interlock and sta
 - **plate:** a 7mm hexfinity tile
 - **brick:** a 21mm hexfinity tile (3x plates)
 
+## Roll Hexfinity Tiles
+
+Just want to print and play? Find all the models you need:
+
+- Roll Hexfinity: [models/roll-hexfinity](./models/roll-hexfinity)
+- Hexfinity Bases: [models/hexfinity-bases](./models/hexfinity-bases)
+- Hexfinity Plates: [models/hexfinity-plates](./models/hexfinity-plates)
+
+Want to customize and make your own?
+
+- Hexfinity Reference Tiles: [models/hexfinity-reference-tiles](./models/hexfinity-reference-tiles)
+- Roll Hexfinity cut-outs: [models/roll-hexfinity-cut-outs](./models/roll-hexfinity-cut-outs)
+
 ## The Roll Hexfinity Hex-to-Hex Interface System
 
 Given the basics of Hexfinity, the key to Roll Hexfinity is how balls roll from one brick to the next:

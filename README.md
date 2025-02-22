@@ -1,3 +1,5 @@
+![Hexfinity Logo](./diagrams/roll-hexfinity-hero2.jpg)
+
 # Hexfinity: Modular Hexagonal Grid System
 
 - [Hexfinity Specification](HEXFINITY.md) Just want the specs? Go here!
@@ -7,6 +9,10 @@
 ## Introduction
 
 Hexagons are the bestagons! If you're here, it's because you love modular systems, you appreciate efficient tiling, and you want to build something with infinite creative possibilities. Welcome to **Hexfinity**, an open-source modular system that combines the best aspects of **ball rolling sculptures** and **hexagonal storage solutions**.
+
+### Tribute to Gridfinity
+
+I'm a huge fan of Zach Freedman's Gridfinity [Gridfinity on Thangs](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Baseplates-60925) and [Gridfinity on YouTube](https://www.youtube.com/watch?v=ra_9zU-mnl8). I was inspired by his work to create Hexfinity. Now only is Hexfinity inspired by Gridfinity, but it is also designed to be compatible with it - at least as compatible as possible given how square grids and hexagonal grids are different.
 
 ### Why Hexagons?
 
@@ -19,7 +25,7 @@ Hexagons are the bestagons! If you're here, it's because you love modular system
 
 Hexfinity is divided into **two major components**, each serving a unique purpose but built on the same core principles:
 
-### 1. RollHexfinity (The Ball Rolling System)
+### 1. [RollHexfinity](ROLL_HEXFINITY.md) (The Ball Rolling System)
 
 RollHexfinity is designed for creating highly customizable **ball rolling sculptures**. Unlike traditional marble mazes that offer limited configurations, RollHexfinity provides:
 
@@ -29,7 +35,7 @@ RollHexfinity is designed for creating highly customizable **ball rolling sculpt
 - **Controlled Slopes**: Ball paths follow structured height increments of **7mm**, ensuring smooth rolling motion.
 - **Compatibility with Gridfinity**: Includes **adapter plates** that allow you to integrate RollHexfinity with the popular Gridfinity system.
 
-### 2. StorHexfinity (The Hexagonal Storage System)
+### 2. [StorHexfinity](STOR_HEXFINITY.md) (The Hexagonal Storage System)
 
 Hexfinity isn't just for rolling balls—it's also a **storage system** optimized for hexagonal layouts. StorHexfinity provides:
 
