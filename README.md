@@ -1,5 +1,5 @@
-![Hexfinity Hero](./diagrams/roll-hexfinity-hero2.jpg)
 ![Hexfinity Logo](./assets/hexfinity-logo.svg)
+![Hexfinity Hero](./diagrams/roll-hexfinity-hero2.jpg)
 
 # Hexfinity: Modular Hexagonal Grid System
 
