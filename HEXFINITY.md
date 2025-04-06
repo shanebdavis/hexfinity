@@ -1,3 +1,5 @@
+![Hexfinity Logo](./assets/hexfinity-logo.svg)
+
 # Hexfinity Specification
 
 ## The Hexfinity Grid - with Max Gridfinity Compatibility

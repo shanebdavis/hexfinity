@@ -1,10 +1,11 @@
-![Hexfinity Logo](./diagrams/roll-hexfinity-hero2.jpg)
+![Hexfinity Hero](./diagrams/roll-hexfinity-hero2.jpg)
+![Hexfinity Logo](./assets/hexfinity-logo.svg)
 
 # Hexfinity: Modular Hexagonal Grid System
 
 - [Hexfinity Specification](HEXFINITY.md) Just want the specs? Go here!
-- [RollHexfinity](ROLL_HEXFINITY.md) The ball rolling system specs
-- [StorHexfinity](STOR_HEXFINITY.md) The hexagonal storage system specs
+- [Roll Hexfinity](ROLL_HEXFINITY.md) The ball rolling system specs
+- [Stor Hexfinity](STOR_HEXFINITY.md) The hexagonal storage system specs
 
 ## Introduction
 
@@ -44,7 +45,7 @@ Hexfinity isn't just for rolling balls—it's also a **storage system** optimize
 - **Efficient Circular Storage**: Ideal for storing spherical objects (e.g., bearings, marbles, beads) more effectively than square containers.
 - **Customizable Dividers**: Allows for custom compartment layouts using **60-degree and 120-degree angles**.
 
-## RollHexfinity Technical Specifications
+## Roll Hexfinity Technical Specifications
 
 - **Roll channel diameter**: 10mm
 - **Recommended ball size**: 8mm steel bearings
