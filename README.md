@@ -1,7 +1,7 @@
 ![Hexfinity Logo](./assets/hexfinity-logo.svg)
 ![Hexfinity Hero](./diagrams/roll-hexfinity-hero2.jpg)
 
-> Note: I've been release new stuff all year, but I haven't had time to update this Repo. Visit me on [MakerWorld.com/en/@Kanjirevilo](https://makerworld.com/en/@Kanjirevilo) to see the latest. If you want to see me updating this repo, leave a comment there - I'm more likely to see it. If there is interest in this repo, I'll definitly to more to keep it up to date. Cheers!
+> Note: I've been release new stuff all year, but I haven't had time to update this Repo. Visit me on [MakerWorld.com/en/@Kanjirevilo](https://makerworld.com/en/@Kanjirevilo) to see the latest. If you want to see me updating this repo, leave a comment there - I'm more likely to see it. If there is interest in this repo, I'll definitly do more to keep it up to date. Cheers!
 
 # Hexfinity: Modular Hexagonal Grid System
 
